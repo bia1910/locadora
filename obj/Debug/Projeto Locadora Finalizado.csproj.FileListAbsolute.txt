@@ -1,0 +1,41 @@
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\bin\Debug\Projeto Locadora Finalizado.exe.config
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\bin\Debug\Projeto Locadora Finalizado.exe
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\bin\Debug\Projeto Locadora Finalizado.pdb
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\bin\Debug\Google.Protobuf.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\bin\Debug\MySql.Data.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\bin\Debug\System.Buffers.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\bin\Debug\System.Memory.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\bin\Debug\ZstdNet.dll
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\bin\Debug\Google.Protobuf.pdb
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\bin\Debug\Google.Protobuf.xml
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\bin\Debug\MySql.Data.xml
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\bin\Debug\System.Buffers.xml
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\bin\Debug\System.Memory.xml
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\obj\Debug\Projeto Locadora Finalizado.csproj.AssemblyReference.cache
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\obj\Debug\Projeto Locadora Finalizado.csproj.SuggestedBindingRedirects.cache
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\obj\Debug\Projeto_Locadora_Finalizado.FrmModelo.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\obj\Debug\Projeto_Locadora_Finalizado.FrmMarca.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\obj\Debug\Projeto_Locadora_Finalizado.FrmMenu.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\obj\Debug\Projeto_Locadora_Finalizado.Properties.Resources.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\obj\Debug\Projeto Locadora Finalizado.csproj.GenerateResource.cache
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\obj\Debug\Projeto Locadora Finalizado.csproj.CoreCompileInputs.cache
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\obj\Debug\Projeto Locadora Finalizado.csproj.CopyComplete
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\obj\Debug\Projeto Locadora Finalizado.exe
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\obj\Debug\Projeto Locadora Finalizado.pdb
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\obj\Debug\Projeto_Locadora_Finalizado.FrmCargo.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\obj\Debug\Projeto_Locadora_Finalizado.FrmCliente.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\obj\Debug\Projeto_Locadora_Finalizado.FrmFuncionario.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\obj\Debug\Projeto_Locadora_Finalizado.FrmAutomovel.resources
+C:\Users\beatr\Documents\Beatriz\ETEC\Curso\2º ano\DS\projeto crud perturbacao - finalizado\Projeto Locadora Finalizado\Projeto Locadora Finalizado\obj\Debug\Projeto_Locadora_Finalizado.FrmLocacao.resources
